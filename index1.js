@@ -1,4 +1,4 @@
-// Extract from server/index.js for visualizer processing
+
 const axios = require('axios');
 
 const JUDGE0_BASE_URL = process.env.JUDGE0_BASE_URL || 'https://judge0-ce.p.rapidapi.com';

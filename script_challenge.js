@@ -1,4 +1,4 @@
-// Extract from client/script.js for Challenge Analysis and Execution Sandbox
+
 
 const CODE_API = 'http://localhost:5000/api/code';
 const runBtn = document.getElementById('runBtn');

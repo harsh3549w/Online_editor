@@ -1,4 +1,3 @@
-// Extract from client/script.js for visualizer processing
 
 const CODE_API = 'http://localhost:5000/api/code';
 const visualizeBtn = document.getElementById('visualizeBtn');
